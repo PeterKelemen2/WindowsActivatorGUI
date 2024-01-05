@@ -1,0 +1,15 @@
+C:\Users\Administrator\RiderProjects\WindowsActivatorGUI\WindowsActivatorGUI\bin\Debug\net7.0-windows\WindowsActivatorGUI.exe
+C:\Users\Administrator\RiderProjects\WindowsActivatorGUI\WindowsActivatorGUI\bin\Debug\net7.0-windows\WindowsActivatorGUI.deps.json
+C:\Users\Administrator\RiderProjects\WindowsActivatorGUI\WindowsActivatorGUI\bin\Debug\net7.0-windows\WindowsActivatorGUI.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\WindowsActivatorGUI\WindowsActivatorGUI\bin\Debug\net7.0-windows\WindowsActivatorGUI.dll
+C:\Users\Administrator\RiderProjects\WindowsActivatorGUI\WindowsActivatorGUI\bin\Debug\net7.0-windows\WindowsActivatorGUI.pdb
+C:\Users\Administrator\RiderProjects\WindowsActivatorGUI\WindowsActivatorGUI\obj\Debug\net7.0-windows\WindowsActivatorGUI.csproj.AssemblyReference.cache
+C:\Users\Administrator\RiderProjects\WindowsActivatorGUI\WindowsActivatorGUI\obj\Debug\net7.0-windows\WindowsActivatorGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\WindowsActivatorGUI\WindowsActivatorGUI\obj\Debug\net7.0-windows\WindowsActivatorGUI.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\WindowsActivatorGUI\WindowsActivatorGUI\obj\Debug\net7.0-windows\WindowsActivatorGUI.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\WindowsActivatorGUI\WindowsActivatorGUI\obj\Debug\net7.0-windows\WindowsActivatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\WindowsActivatorGUI\WindowsActivatorGUI\obj\Debug\net7.0-windows\WindowsActivatorGUI.dll
+C:\Users\Administrator\RiderProjects\WindowsActivatorGUI\WindowsActivatorGUI\obj\Debug\net7.0-windows\refint\WindowsActivatorGUI.dll
+C:\Users\Administrator\RiderProjects\WindowsActivatorGUI\WindowsActivatorGUI\obj\Debug\net7.0-windows\WindowsActivatorGUI.pdb
+C:\Users\Administrator\RiderProjects\WindowsActivatorGUI\WindowsActivatorGUI\obj\Debug\net7.0-windows\WindowsActivatorGUI.genruntimeconfig.cache
+C:\Users\Administrator\RiderProjects\WindowsActivatorGUI\WindowsActivatorGUI\obj\Debug\net7.0-windows\ref\WindowsActivatorGUI.dll
